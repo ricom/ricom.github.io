@@ -1,3 +1,4 @@
+# Impressum und Datenschutz
 Die App wurde im Rahmen eines studentischen Projektes im Masterstudiengang "Geoinformationswissenschaften" an der Jade Hochschule in Oldenburg entwickelt. 
 Es erfolgte in enger Zusammenarbeit mit den Vereinen "Historische Kulturlandschaften im Oldenburger Land e.V." sowie "Freunde des Klosters Hude e.V.".
  
